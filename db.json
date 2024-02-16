@@ -1,114 +1,95 @@
 {
-    "computers":[
-      {
-        "name": "Acer Predator",
-        "img": "https://images.idgesg.net/images/article/2018/03/acer-predator-helios-300-1-100753274-large.jpg?auto=webp&quality=85,70",
-        "CPU": "Core i7",
-        "GPU": "GTX 1060 6GB",
-        "SSD": "256GB",
-        "HDD": "512GB",
-        "RAM": "DDR4 16GB",
-        "screen": "FullHD 144Hz",
-        "year": 2017
-      },
-      {
-        "name": "Acer Nitro7",
-        "img": "https://media.hitekno.com/thumbs/2019/04/12/90282-laptop-gaming-acer-nitro-7/730x480-img-90282-laptop-gaming-acer-nitro-7.jpg",
-        "CPU": "Core i5",
-        "GPU": "GTX 1050 4GB",
-        "SSD": "512GB",
-        "HDD": "1TB",
-        "RAM": "DDR4 8GB",
-        "screen": "FullHD 144Hz",
-        "year": 2019
-      },
-      {
-        "name": "Asus Rog Gaming",
-        "img": "https://www.cnet.com/a/img/resize/42e4e1885806d9866c487c4ea545478ba21e4aed/hub/2023/08/21/c3af5f24-67f2-4331-b5dd-2d1ece131915/asus-rog-strix-g15-2022-4476.jpg?auto=webp&width=1200",
-        "CPU": "Core i7",
-        "GPU": "RTX 2060 6GB",
-        "SSD": "512GB",
-        "HDD": "512GB",
-        "RAM": "DDR5 16GB",
-        "screen": "FullHD 165Hz",
-        "year": 2019
-      },
-      {
-        "name": "HP Victus",
-        "img": "https://e1.pxfuel.com/desktop-wallpaper/113/637/desktop-wallpaper-hp-victus-16-review.jpg",
-        "CPU": "Core i5",
-        "GPU": "GTX 1660 TI 6GB",
-        "SSD": "128GB",
-        "HDD": "1TB",
-        "RAM": "DDR4 8GB",
-        "screen": "FullHD 120Hz",
-        "year": 2022
-      },
-      {
-        "name": "Asus Tuf Gaming",
-        "img": "https://i.pcmag.com/imagery/reviews/03EtGf8P13WvTbB4pBDzeHu-2..v1670284438.jpg",
-        "CPU": "Core i9",
-        "GPU": "RTX 3050 12GB",
-        "SSD": "1TB",
-        "HDD": "1TB",
-        "RAM": "DDR5 32GB",
-        "screen": "FullHD 165Hz",
-        "year": 2023
-      },
-      {
-        "name": "Acer Predator",
-        "img": "https://images.idgesg.net/images/article/2018/03/acer-predator-helios-300-1-100753274-large.jpg?auto=webp&quality=85,70",
-        "CPU": "Core i7",
-        "GPU": "RTX 2060 8GB",
-        "SSD": "512GB",
-        "HDD": "512TB",
-        "RAM": "DDR5 16GB",
-        "screen": "FullHD 144Hz",
-        "year": 2018
-      },
-      {
-        "name": "Asus Rog Gaming",
-        "img": "https://www.cnet.com/a/img/resize/42e4e1885806d9866c487c4ea545478ba21e4aed/hub/2023/08/21/c3af5f24-67f2-4331-b5dd-2d1ece131915/asus-rog-strix-g15-2022-4476.jpg?auto=webp&width=1200",
-        "CPU": "Core i7",
-        "GPU": "GTX 1660 6GB",
-        "SSD": "1TB",
-        "HDD": "256GB",
-        "RAM": "DDR4 16GB",
-        "screen": "FullHD 144Hz",
-        "year": 2019
-      },
-      {
-        "name": "HP Victus",
-        "img": "https://e1.pxfuel.com/desktop-wallpaper/113/637/desktop-wallpaper-hp-victus-16-review.jpg",
-        "CPU": "Core i9",
-        "GPU": "RTX 4080 16GB",
-        "SSD": "1TB",
-        "HDD": "1TB",
-        "RAM": "DDR5 32GB",
-        "screen": "FullHD 165Hz",
-        "year": 2019
-      },
-      {
-        "name": "Acer Nitro7",
-        "img": "https://media.hitekno.com/thumbs/2019/04/12/90282-laptop-gaming-acer-nitro-7/730x480-img-90282-laptop-gaming-acer-nitro-7.jpg",
-        "CPU": "Core i5",
-        "GPU": "GTX 1060 6GB",
-        "SSD": "256GB",
-        "HDD": "256GB",
-        "RAM": "DDR4 8GB",
-        "screen": "FullHD 120Hz",
-        "year": 2021
-      },
-      {
-        "name": "Asus Tuf Gaming",
-        "img": "https://i.pcmag.com/imagery/reviews/03EtGf8P13WvTbB4pBDzeHu-2..v1670284438.jpg",
-        "CPU": "Core i9",
-        "GPU": "RTX 3060 8GB",
-        "SSD": "1TB",
-        "HDD": "2TB",
-        "RAM": "DDR5 32GB",
-        "screen": "FullHD 165Hz",
-        "year": 2021
-      }
-    ]
-  }
+  "sunglasses" : [
+        {
+        "id": 81,
+        "title": "Round Silver Frame Sun Glasses",
+        "description": "A pair of sunglasses can protect your eyes from being hurt. For car driving, vacation travel, outdoor activities, social gatherings,",
+        "price": 19,
+        "discountPercentage": 10.1,
+        "rating": 4.94,
+        "stock": 78,
+        "brand": "Designer Sun Glasses",
+        "category": "sunglasses",
+        "thumbnail": "https://i.ebayimg.com/thumbs/images/g/M44AAOSwthxjVGaT/s-l300.webp",
+        "images": [
+        "https://i.dummyjson.com/data/products/81/1.jpg",
+        "https://i.dummyjson.com/data/products/81/2.jpg",
+        "https://i.dummyjson.com/data/products/81/3.jpg",
+        "https://i.dummyjson.com/data/products/81/4.webp",
+        "https://i.dummyjson.com/data/products/81/thumbnail.jpg"
+        ]
+        },
+        {
+        "id": 82,
+        "title": "Kabir Singh Square Sunglass",
+        "description": "Orignal Metal Kabir Singh design 2020 Sunglasses Men Brand Designer Sun Glasses Kabir Singh Square Sunglass",
+        "price": 50,
+        "discountPercentage": 15.6,
+        "rating": 4.62,
+        "stock": 78,
+        "brand": "Designer Sun Glasses",
+        "category": "sunglasses",
+        "thumbnail": "https://i.ebayimg.com/thumbs/images/g/OAQAAOSwNihj0PSm/s-l300.webp",
+        "images": [
+        "https://i.dummyjson.com/data/products/82/1.jpg",
+        "https://i.dummyjson.com/data/products/82/2.webp",
+        "https://i.dummyjson.com/data/products/82/3.jpg",
+        "https://i.dummyjson.com/data/products/82/4.jpg",
+        "https://i.dummyjson.com/data/products/82/thumbnail.jpg"
+        ]
+        },
+        {
+        "id": 83,
+        "title": "Wiley X Night Vision Yellow Glasses",
+        "description": "Wiley X Night Vision Yellow Glasses for Riders - Night Vision Anti Fog Driving Glasses - Free Night Glass Cover - Shield Eyes From Dust and Virus- For Night Sport Matches",
+        "price": 30,
+        "discountPercentage": 6.33,
+        "rating": 4.97,
+        "stock": 115,
+        "brand": "mastar watch",
+        "category": "sunglasses",
+        "thumbnail": "https://i.ebayimg.com/thumbs/images/g/cLsAAOSwV1JjZbJ4/s-l300.webp",
+        "images": [
+        "https://i.dummyjson.com/data/products/83/1.jpg",
+        "https://i.dummyjson.com/data/products/83/2.jpg",
+        "https://i.dummyjson.com/data/products/83/3.jpg",
+        "https://i.dummyjson.com/data/products/83/4.jpg",
+        "https://i.dummyjson.com/data/products/83/thumbnail.jpg"
+        ]
+        },
+        {
+        "id": 84,
+        "title": "Square Sunglasses",
+        "description": "Fashion Oversized Square Sunglasses Retro Gradient Big Frame Sunglasses For Women One Piece Gafas Shade Mirror Clear Lens 17059",
+        "price": 28,
+        "discountPercentage": 13.89,
+        "rating": 4.64,
+        "stock": 64,
+        "brand": "mastar watch",
+        "category": "sunglasses",
+        "thumbnail": "https://i.ebayimg.com/thumbs/images/g/x4UAAOSwcjhgg84n/s-l300.webp",
+        "images": [
+        "https://i.dummyjson.com/data/products/84/1.jpg",
+        "https://i.dummyjson.com/data/products/84/2.jpg",
+        "https://i.dummyjson.com/data/products/84/thumbnail.jpg"
+        ]
+        },
+        {
+        "id": 85,
+        "title": "LouisWill Men Sunglasses",
+        "description": "LouisWill Men Sunglasses Polarized Sunglasses UV400 Sunglasses Day Night Dual Use Safety Driving Night Vision Eyewear AL-MG Frame Sun Glasses with Free Box for Drivers",
+        "price": 50,
+        "discountPercentage": 11.27,
+        "rating": 4.98,
+        "stock": 92,
+        "brand": "LouisWill",
+        "category": "sunglasses",
+        "thumbnail": "https://i.dummyjson.com/data/products/85/thumbnail.jpg",
+        "images": [
+        "https://i.dummyjson.com/data/products/85/1.jpg",
+        "https://i.dummyjson.com/data/products/85/2.jpg",
+        "https://i.dummyjson.com/data/products/85/thumbnail.jpg"
+        ]
+        }
+        ]
+}
